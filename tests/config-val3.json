@@ -1,0 +1,11 @@
+{
+   "products":{
+      "file_path":"products3.csv",
+      "amount_fields":6
+    },
+   "container":{
+      "volume_length": 7,
+      "volume_width": 1,
+      "volume_height": 1
+   }
+}

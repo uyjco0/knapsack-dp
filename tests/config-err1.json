@@ -1,0 +1,11 @@
+{
+   "products":{
+      "file_path":"",
+      "amount_fields":6
+    },
+   "container":{
+      "volume_length": 45,
+      "volume_width": 30,
+      "volume_height": 35
+   }
+}

@@ -1,0 +1,10 @@
+INFO:root:************* ###### *************
+INFO:root:************* ###### *************
+INFO:root:It starts to load the products file at: 2016-03-28 18:05:16
+INFO:root:It ends to load the products file at: 2016-03-28 18:05:16
+INFO:root:Amount of products loaded: 16235
+INFO:root:Amount of products descarted: 3765
+INFO:root:Amount of bad products: 0
+INFO:root:It starts to solve at: 2016-03-28 18:05:16
+INFO:root:It gets the solution at: 2016-03-28 18:09:43
+INFO:root:The solution is: ([1370, 4887, 5084, 6532, 8699, 9972, 10496, 10981, 12856, 12979, 14301, 14448, 17788, 17896, 26950, 27376, 31288, 33638, 34414, 35280, 36175, 36769, 39987], 450166)
